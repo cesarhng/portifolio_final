@@ -1,6 +1,7 @@
 body {
   background-image: url(./assets/pexels-neo-2653362.jpg);
   background-size: cover;
+  background-position: center;
   color: antiquewhite;
   /* font-family: 'Bacasime Antique', serif; */
   font-family: "Lora", serif;
